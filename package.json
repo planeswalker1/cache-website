@@ -1,0 +1,14 @@
+{
+  "name": "cache-website",
+  "version": "1.0.0",
+  "description": "A website using the cache api to load a page even when offline",
+  "main": "app.js",
+  "private": true,
+  "author": "Daniel Munoz <daniel.munozdev@gmail.com>",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
